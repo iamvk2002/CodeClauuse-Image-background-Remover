@@ -3,7 +3,7 @@
 
 Welcome to the Image Background Remover repository!
 
-This web-based application allows users to easily remove the background from images using CSS, HTML, JavaScript, and the remove.bg API. Whether you're a graphic designer, an e-commerce platform, or someone looking to enhance images for social media, this project provides a simple and efficient solution for removing unwanted backgrounds.
+This web-based application allows users to easily remove the background from images using CSS, HTML, JavaScript, Bootstrap, and the remove.bg API. Whether you're a graphic designer, an e-commerce platform, or someone looking to enhance images for social media, this project provides a simple and efficient solution for removing unwanted backgrounds.
 
 ### Features
 
@@ -19,6 +19,7 @@ The Image Background Remover project utilizes the following technologies:
 
 - **HTML**: Provides the structure and layout of the web pages.
 - **CSS**: Handles the styling of the user interface for a visually appealing design.
+- **Bootstrap**: Incorporates Bootstrap for responsive layouts, components, and styles.
 - **JavaScript**: Implements dynamic functionalities, handles user interactions, and communicates with the remove.bg API.
 - **remove.bg API**: Integrates the powerful machine learning algorithms of the remove.bg API to perform the actual background removal process.
 
@@ -41,7 +42,10 @@ To set up the Image Background Remover project on your local environment, follow
 
 Contributions to the Image Background Remover project are highly appreciated! If you have any ideas, bug fixes, or enhancements, feel free to submit a pull request. Please make sure to follow the project's guidelines for contributing.
 
+### License
+
+The Image Background Remover project is licensed under the [insert license name]. Please refer to the LICENSE file for more details.
 
 ### Conclusion
 
-The Image Background Remover repository provides a user-friendly web application that enables efficient background removal from images using CSS, HTML, JavaScript, and the remove.bg API. Enhance your graphic design projects, improve product images for e-commerce platforms, or elevate your social media visuals with ease. Try it out and enjoy the benefits of effortless background removal!
+The Image Background Remover repository provides a user-friendly web application that enables efficient background removal from images using CSS, HTML, JavaScript, Bootstrap, and the remove.bg API. Enhance your graphic design projects, improve product images for e-commerce platforms, or elevate your social media visuals with ease. Try it out and enjoy the benefits of effortless background removal!
