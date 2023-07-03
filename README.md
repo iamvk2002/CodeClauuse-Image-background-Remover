@@ -42,9 +42,6 @@ To set up the Image Background Remover project on your local environment, follow
 
 Contributions to the Image Background Remover project are highly appreciated! If you have any ideas, bug fixes, or enhancements, feel free to submit a pull request. Please make sure to follow the project's guidelines for contributing.
 
-### License
-
-The Image Background Remover project is licensed under the [insert license name]. Please refer to the LICENSE file for more details.
 
 ### Conclusion
 
